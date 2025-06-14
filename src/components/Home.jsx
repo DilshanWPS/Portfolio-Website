@@ -8,10 +8,11 @@ const Home = () => {
     >
     
      <img
-        src="./public/profile.png"
-        alt="My Photo"
-        className="w-48 h-48 rounded-full border-4 border-white shadow-xl mb-6 object-cover"
-      />
+      src="/profile.png"
+      alt="My Photo"
+      className="w-48 h-48 rounded-full border-4 border-white shadow-xl mb-6 object-cover"
+    />
+
 
       <h1 className="text-5xl md:text-6xl font-extrabold text-gray-900 text-center mb-2">
         Hi, I'm <span className="text-blue-600">Sandun Dilshan</span>

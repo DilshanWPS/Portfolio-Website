@@ -8,7 +8,7 @@ const Home = () => {
     >
     
      <img
-        src="./public/profile.jpg"
+        src="./public/profile.png"
         alt="My Photo"
         className="w-48 h-48 rounded-full border-4 border-white shadow-xl mb-6 object-cover"
       />

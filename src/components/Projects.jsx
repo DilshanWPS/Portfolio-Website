@@ -24,7 +24,7 @@ const allProjects = [
     title: "Portfolio Website",
     description: "This personal portfolio site.",
     tech: "React, Vite, Tailwind CSS",
-    github: "https://github.com/your/portfolio",
+    github: "https://github.com/DilshanWPS/Portfolio-Website",
     image: "./project3.png",
     featured: true,
   }
